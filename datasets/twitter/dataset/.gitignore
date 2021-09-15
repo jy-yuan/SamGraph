@@ -1,0 +1,6 @@
+*.biedgelist
+*.edgelist
+*.txt
+./*.biedgelist
+./*.edgelist
+./*.txt
